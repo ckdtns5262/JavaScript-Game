@@ -29,6 +29,7 @@ body {
 }
 
 
+
 .game-details {
     color : #b8c6dc;
     font-weight: 500;
@@ -52,6 +53,7 @@ body {
 
 .play-board .head {
     background: #60cbff;
+
 }
 
 .controls {
